@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Three overlapping wireframe sketches joined by a loop of arrows">
+<rect width="1200" height="900" fill="#f3eee4"/>
+<g fill="none" stroke="#17140f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="170" y="250" width="300" height="380" rx="18" stroke-dasharray="2 10"/>
+<path d="M210 310h150M210 350h220M210 390h180"/>
+<circle cx="320" cy="510" r="56" stroke-dasharray="2 10"/>
+<rect x="450" y="200" width="300" height="380" rx="18" fill="#f3eee4"/>
+<path d="M490 260h160M490 300h220"/>
+<rect x="490" y="350" width="220" height="130" rx="10"/>
+<path d="M490 520h120"/>
+<rect x="730" y="270" width="300" height="380" rx="18" fill="#f3eee4" stroke="#d8432b" stroke-width="3"/>
+<path d="M770 330h180M770 370h120" stroke="#d8432b"/>
+<path d="M770 560l60-70 50 40 70-90 50 60" stroke="#d8432b" stroke-width="3"/>
+<path d="M320 700C440 780 760 780 880 700" stroke-width="1.5"/>
+<path d="M866 722l16-23-28-2" stroke-width="1.5"/>
+<path d="M150 820H1050M150 808v24M1050 808v24" stroke-width="1.5"/>
+</g>
+<g font-family="ui-monospace,Menlo,monospace" font-size="22" fill="#17140f"><text x="320" y="230" text-anchor="middle">sketch</text><text x="600" y="180" text-anchor="middle">build</text><text x="880" y="250" text-anchor="middle" fill="#d8432b">study</text><text x="600" y="858" text-anchor="middle">prototype, test, repeat</text></g></svg>

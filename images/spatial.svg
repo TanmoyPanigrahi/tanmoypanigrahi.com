@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Plan drawing of a viewer facing three interface panels arranged on an arc">
+<rect width="1200" height="900" fill="#f3eee4"/>
+<g fill="none" stroke="#17140f" stroke-width="2">
+<path d="M401 627A220 220 0 0 1 799 627" stroke-dasharray="2 10" stroke-linecap="round"/>
+<path d="M237 551A400 400 0 0 1 963 551" stroke-dasharray="2 10" stroke-linecap="round"/>
+<path d="M74 475A580 580 0 0 1 1126 475" stroke-dasharray="2 10" stroke-linecap="round"/>
+<path d="M600 720L304 342" stroke-width="1.2"/>
+<path d="M232 398L377 285" stroke="#17140f" stroke-width="12" stroke-linecap="square"/>
+<circle cx="304" cy="342" r="5" fill="#f3eee4"/>
+<path d="M600 720L600 240" stroke-width="1.2"/>
+<path d="M508 240L692 240" stroke="#d8432b" stroke-width="12" stroke-linecap="square"/>
+<circle cx="600" cy="240" r="5" fill="#f3eee4"/>
+<path d="M600 720L896 342" stroke-width="1.2"/>
+<path d="M823 285L968 398" stroke="#17140f" stroke-width="12" stroke-linecap="square"/>
+<circle cx="896" cy="342" r="5" fill="#f3eee4"/>
+<circle cx="600" cy="720" r="34" fill="#f3eee4" stroke-width="3"/>
+<path d="M586 690L600 662L614 690" stroke-width="3" stroke-linejoin="round"/>
+<path d="M150 820H1050M150 808v24M1050 808v24" stroke-width="1.5"/>
+</g>
+<g font-family="ui-monospace,Menlo,monospace" font-size="22" fill="#17140f"><text x="600" y="858" text-anchor="middle">field of view</text><text x="600" y="210" text-anchor="middle" fill="#d8432b">focus</text><text x="262" y="330" text-anchor="middle">left</text><text x="938" y="330" text-anchor="middle">right</text><text x="660" y="728">viewer</text></g></svg>

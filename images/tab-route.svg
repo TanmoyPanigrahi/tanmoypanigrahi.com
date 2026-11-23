@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Sketch map of a route from Bhubaneswar to Atlanta, Cupertino, Boston, and back to Cupertino">
+<rect width="1200" height="900" fill="#f3eee4"/>
+<g fill="none" stroke="#17140f" stroke-linecap="round" stroke-linejoin="round">
+<g stroke-width="1.5" stroke-dasharray="2 12" opacity=".55">
+<path d="M60 150Q600 90 1140 150M60 290Q600 240 1140 290M60 430Q600 400 1140 430M60 570Q600 560 1140 570"/>
+<path d="M180 80Q150 330 180 620M400 80Q385 330 400 620M600 80V620M800 80Q815 330 800 620M1020 80Q1050 330 1020 620"/>
+</g>
+<path d="M1004 400C860 120 520 110 324 302" stroke-width="3"/>
+<path d="M324 302C280 250 210 250 172 281" stroke-width="3"/>
+<path d="M172 281C200 170 330 160 376 246" stroke-width="3"/>
+<path d="M376 246C400 60 150 60 170 262" stroke="#d8432b" stroke-width="3" stroke-dasharray="10 10"/>
+<path d="M146 228l23 38 24-36" stroke="#d8432b" stroke-width="3"/>
+</g>
+<g fill="#f3eee4" stroke="#17140f" stroke-width="3"><circle cx="1004" cy="400" r="13"/><circle cx="324" cy="302" r="13"/><circle cx="376" cy="246" r="13"/></g>
+<circle cx="172" cy="281" r="14" fill="#d8432b"/>
+<g font-family="ui-monospace,Menlo,monospace" font-size="40" fill="#17140f">
+<text x="1004" y="468" text-anchor="middle">Bhubaneswar</text>
+<text x="316" y="372">Atlanta</text>
+<text x="70" y="346" fill="#d8432b">Cupertino</text>
+<text x="408" y="232">Boston</text>
+</g></svg>

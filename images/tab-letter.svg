@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Line sketch of a letter sliding out of an envelope">
+<rect width="1200" height="900" fill="#f3eee4"/>
+<g fill="none" stroke="#17140f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-6 600 360)">
+<rect x="380" y="90" width="440" height="330" rx="10" fill="#f3eee4"/>
+<path d="M430 160h180" stroke="#d8432b"/>
+<path d="M430 210h340M430 250h340M430 290h250" stroke-width="2" stroke-dasharray="2 10"/>
+<path d="M300 290h600v330a14 14 0 0 1-14 14H314a14 14 0 0 1-14-14z" fill="#f3eee4"/>
+<path d="M300 290l300 200 300-200"/>
+<path d="M306 628l210-196M894 628L684 432" stroke-width="2"/>
+<rect x="790" y="520" width="70" height="84" rx="4" stroke="#d8432b" stroke-dasharray="4 7"/>
+</g>
+</svg>

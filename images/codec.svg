@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Diagram of a web address encoded as ring segments in a circular code">
+<rect width="1200" height="900" fill="#f3eee4"/>
+<g font-family="ui-monospace,Menlo,monospace" font-size="30" fill="#17140f"><text x="90" y="440">https://example.com/</text><text x="90" y="486" fill="#d8432b">order?table=12</text></g>
+<path d="M470 450H560M540 436l20 14-20 14" fill="none" stroke="#17140f" stroke-width="2.5"/>
+<g fill="none" stroke-linecap="round" stroke-width="20">
+<path d="M933.2 489.9A120 120 0 0 1 904.2 535.5" stroke="#17140f"/>
+<path d="M877.4 555.4A120 120 0 0 1 850.2 566.1" stroke="#d8432b"/>
+<path d="M800.3 568.4A120 120 0 0 1 772.3 560.1" stroke="#d8432b"/>
+<path d="M731.6 531.2A120 120 0 0 1 714.6 507.4" stroke="#17140f"/>
+<path d="M702.9 476.1A120 120 0 0 1 703.3 422.1" stroke="#17140f"/>
+<path d="M709.9 402.3A120 120 0 0 1 724.7 377.1" stroke="#d8432b"/>
+<path d="M762.6 344.6A120 120 0 0 1 814.6 330.1" stroke="#17140f"/>
+<path d="M863.8 338.3A120 120 0 0 1 889.6 352.2" stroke="#17140f"/>
+<path d="M923.3 389.0A120 120 0 0 1 935.0 415.8" stroke="#d8432b"/>
+<path d="M964.8 518.0A160 160 0 0 1 944.1 551.0" stroke="#17140f"/>
+<path d="M892.3 592.7A160 160 0 0 1 822.4 610.0" stroke="#17140f"/>
+<path d="M794.6 608.0A160 160 0 0 1 727.9 580.8" stroke="#d8432b"/>
+<path d="M695.4 550.4A160 160 0 0 1 674.8 517.2" stroke="#d8432b"/>
+<path d="M660.0 452.4A160 160 0 0 1 675.2 382.0" stroke="#17140f"/>
+<path d="M699.5 344.7A160 160 0 0 1 845.4 292.0" stroke="#17140f"/>
+<path d="M888.0 305.2A160 160 0 0 1 978.9 430.9" stroke="#17140f"/>
+<path d="M954.7 597.8A200 200 0 0 1 876.3 641.9" stroke="#17140f"/>
+<path d="M842.1 648.8A200 200 0 0 1 663.1 574.1" stroke="#17140f"/>
+<path d="M635.0 526.0A200 200 0 0 1 629.4 389.3" stroke="#17140f"/>
+<path d="M670.6 317.1A200 200 0 0 1 707.2 284.9" stroke="#17140f"/>
+<path d="M784.1 253.2A200 200 0 0 1 919.0 276.2" stroke="#17140f"/>
+<path d="M948.2 652.9A240 240 0 0 1 895.3 677.9" stroke="#17140f"/>
+<path d="M796.1 688.8A240 240 0 0 1 648.2 617.6" stroke="#17140f"/>
+<path d="M608.6 563.7A240 240 0 0 1 611.6 331.0" stroke="#17140f"/>
+<path d="M678.0 256.5A240 240 0 0 1 729.0 227.9" stroke="#17140f"/>
+<path d="M769.0 215.5A240 240 0 0 1 991.8 282.4" stroke="#17140f"/>
+<path d="M1045.1 366.8A240 240 0 0 1 1058.6 423.8" stroke="#17140f"/>
+<path d="M1038.1 625.6A280 280 0 0 1 786.7 728.0" stroke="#17140f"/>
+<path d="M711.4 708.1A280 280 0 0 1 570.9 577.9" stroke="#17140f"/>
+<path d="M552.5 532.7A280 280 0 0 1 561.9 341.4" stroke="#17140f"/>
+<path d="M584.7 298.2A280 280 0 0 1 824.0 170.0" stroke="#d8432b"/>
+<path d="M872.6 175.0A280 280 0 0 1 1037.1 273.1" stroke="#17140f"/>
+</g>
+<circle cx="820" cy="450" r="74" fill="none" stroke="#17140f" stroke-width="3"/></svg>
